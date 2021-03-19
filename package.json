@@ -23,5 +23,8 @@
   "homepage": "https://github.com/maslakoff/vanilla-traffic-light#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "main.css": "^2.1.0"
   }
 }
